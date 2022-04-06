@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HimanshuMude
 - 👀 I’m interested in Coding and Web Development
 - 🌱 I’m currently learning C++ and web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me IG himanshu_mude
 
 <!---
