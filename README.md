@@ -1,5 +1,5 @@
 ![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--YTgsVTF7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6vnsxy7g486k12yp4bhd.jpg)
-![@himanshu_mude01's Holopin board](https://holopin.me/himanshu_mude01)
+[![@himanshu_mude01's Holopin board](https://holopin.me/himanshu_mude01)](https://holopin.io/@himanshu_mude01)
 <h1 align="center">Hi 👋, I'm Himanshu Mude</h1>
 <h3 align="center">A passionate Competitive Programmer.</h3>
 
