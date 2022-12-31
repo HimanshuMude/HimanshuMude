@@ -27,7 +27,8 @@
 
 
 <p float="left">
-  <a href="https://app.daily.dev/h1mu"><img src="https://api.daily.dev/devcards/6e3422f4b1a445e49cf9f4c459ab149c.png?r=634" width="400" alt="Himanshu Mude's Dev Card"/></a>
+  <a href="https://app.daily.dev/h1mu"><img src="https://github.com/HimanshuMude/HimanshuMude/blob/master/devcard.svg" width="400" alt="Himanshu Mude's Dev Card"/></a>
+
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/himanshumude01?theme=dark&font=Nunito&ext=heatmap" />
   
    
