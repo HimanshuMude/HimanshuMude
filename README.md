@@ -5,7 +5,7 @@
 
 <img align="right" alt="Itachi" width="400" src="https://www.icegif.com/wp-content/uploads/itachi-icegif.gif">
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Java** and **Backend Development using JavaScript, NodeJS and ExpressJS**. 
 
 - 📫 How to reach me **himanshumude01@gmail.com**
 
