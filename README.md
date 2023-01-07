@@ -54,10 +54,10 @@
 </p>
 
 <p> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumude&show_icons=true&locale=en&layout=compact" alt="himanshumude"  width=400px/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumude&" alt="himanshumude" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumude&show_icons=true&theme=radical&locale=en&layout=compact" alt="himanshumude"  width=400px/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumude&theme=radical" alt="himanshumude" />
 </p>
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=himanshumude&show_icons=true&locale=en" alt="himanshumude" flex-grow=1 width= 400px /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=himanshumude&show_icons=true&theme=radical&locale=en" alt="himanshumude" flex-grow=1 width= 400px /></p>
 
 [![RAOsh's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HimanshuMude&bg_color=0d1117&color=ff10f0&line=ff00ae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
