@@ -8,6 +8,10 @@
 - 🌱 I’m currently learning **Java** and **Backend Development using JavaScript, NodeJS and ExpressJS**. 
 
 - 📫 How to reach me **himanshumude01@gmail.com**
+<br>
+<br>
+
+![](https://komarev.com/ghpvc/?username=HimanshuMude&style=plastic)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,3 +56,5 @@
 </p>
 
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=himanshumude&show_icons=true&locale=en" alt="himanshumude" flex-grow=1 width= 400px /></p>
+
+[![RAOsh's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HimanshuMude&bg_color=0d1117&color=ff10f0&line=ff00ae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
