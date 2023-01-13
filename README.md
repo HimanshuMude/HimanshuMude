@@ -58,14 +58,13 @@
 
 <hr>
 
-<p> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumude&show_icons=true&theme=radical&locale=en&layout=compact" alt="himanshumude"  width=400px/>
+<p align="center"> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumude&theme=radical" alt="himanshumude" />
 </p>
 
 <hr>
 
-<p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=himanshumude&show_icons=true&theme=radical&locale=en" alt="himanshumude" flex-grow=1 width= 400px />
+<p align="center">&nbsp;
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HimanshuMude&theme=radical&margin-h=30&margin-w=30&column=3&no-bg=true" alt="HimanshuMude" /></a> 
 </p>
 
