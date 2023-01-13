@@ -13,12 +13,13 @@
 
 - 📫 How to reach me **himanshumude01@gmail.com**
 
-<a href="https://youtu.be/dQw4w9WgXcQ">Click for fun </a>
+![](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 <br>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=HimanshuMude&style=plastic)
+![](https://img.shields.io/github/followers/HimanshuMude.svg?style=social&label=Follow&maxAge=2592000)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=plastic)
 
