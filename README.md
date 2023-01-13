@@ -4,7 +4,7 @@
 [![@himanshu_mude01's Holopin board](https://holopin.me/himanshu_mude01)](https://holopin.io/@himanshu_mude01)
 
 <hr>
-<h1 align="center">Hi 👋, I'm Himanshu Mude</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Mude  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></h1>
 <h3 align="center">A passionate Competitive Programmer.</h3>
 
 <img align="right" alt="Itachi" width="400" src="https://www.icegif.com/wp-content/uploads/itachi-icegif.gif">
