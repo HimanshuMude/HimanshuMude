@@ -76,4 +76,4 @@
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![HimanshuMude's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HimanshuMude&bg_color=0d1117&color=ff10f0&line=ff00ae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![HimanshuMude's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HimanshuMude&bg_color=0d1117&color=ff10f0&line=ff00ae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
