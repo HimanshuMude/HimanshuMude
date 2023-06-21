@@ -47,12 +47,16 @@
 
 <!-- Badges  -->
 <h3 align="center">Few Achievements</h3>
-<p align="center">
-<!-- 100 Days Batch 2022 -->
-<a href=https://leetcode.com/himanshumude01/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" alt="himanshu" height="100" width="100" /></a>
 
-<a href="https://leetcode.com/himanshumude01/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="himanshu" height="100" width="100" /></a>
-</p>
+<!-- 100 Days Batch 2022 -->
+<div align="center" style="text-align: center;">
+  <a href="https://leetcode.com/himanshumude01/" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" alt="himanshu" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/himanshumude01/" target="_blank" style="display: inline-block;">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="himanshu" height="100" width="100" />
+  </a>
+</div>
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
