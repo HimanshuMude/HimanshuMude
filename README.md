@@ -54,8 +54,16 @@
     <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" alt="himanshu" height="100" width="100" />
   </a>
   <a href="https://leetcode.com/himanshumude01/" target="_blank" style="display: inline-block;">
-    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="himanshu" height="100" width="100" />
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="himanshu" height="100" width="100"  />
   </a>
+  <a>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="himanshu" height="100" width="100"/>
+  </a>
+
+  <a>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="himanshu" height="100" width="100"/>
+  </a>  
+
 </div>
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
