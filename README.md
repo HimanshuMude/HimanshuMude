@@ -62,7 +62,10 @@
 
   <a>
     <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="himanshu" height="100" width="100"/>
-  </a>  
+  </a>
+  <a>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" alt="Jan2024" height="100" widht="100"/>
+  </a>
 
 </div>
 
