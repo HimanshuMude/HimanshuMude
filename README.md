@@ -73,7 +73,7 @@
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <p float="center">
-  <a href="https://app.daily.dev/h1mu"><img src="https://api.daily.dev/devcards/6e3422f4b1a445e49cf9f4c459ab149c.png?r=634" width="400" alt="Himanshu Mude's Dev Card"/></a>
+  <a href="https://app.daily.dev/h1mu"><img src="https://api.daily.dev/devcards/v2/GZhZcqbeYylUKtgbQpkSA.png?r=c7e&type=default" width="400" alt="Himanshu Mude's Dev Card"/></a>
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/himanshumude01?ext=activity&theme=dark&font=nunito" />
 </p>
 </div>
